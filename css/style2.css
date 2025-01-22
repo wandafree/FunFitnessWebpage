@@ -1,0 +1,55 @@
+.body{ 
+	display: block;
+	height: 470px;
+	margin-top: 5px;
+	margin-bottom: 0;
+	margin-left: 1px;
+    
+}
+.page-name{
+   margin-top: 50px;
+   margin-left: 120px;
+    
+}
+.single-box{
+   margin-top: 25px;
+   margin-left: 120px;
+   width: 900px;  
+   height: 360px;
+   border: 1px solid gray;
+   border-radius: 2%;
+}
+.box1{
+   margin-top: 20px;
+   margin-left: 120px;
+   width: 900px;  
+   height: 90px;
+   border: 1px solid gray;
+   border-radius: 2%;
+    
+}
+.box2{
+   margin-top: 5px;
+   margin-left: 120px;
+   width: 900px;
+   height: 300px;
+   border: 1px solid gray;
+   border-radius: 2%;
+}
+p {
+   color: white;
+   font-size: 16px;
+   font-family: "Inter", serif;
+	font-optical-sizing: auto;	
+	font-style: normal;	
+   }
+   
+.page-name p {
+   
+   font-style: italic;
+   text-decoration-line: underline; 
+}
+a{
+   color: orange;
+}
+   
