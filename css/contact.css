@@ -14,6 +14,7 @@ body{
    justify-content: space-evenly;
    width: 480px;
    margin-left: 50px;
+   margin-top: 35px;
 }
 .contact-left{
    display: flex;
